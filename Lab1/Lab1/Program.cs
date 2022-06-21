@@ -48,7 +48,7 @@ namespace Lab1
 
                     else
                     {
-                        Console.WriteLine("Not Even");
+                        Console.WriteLine("Not A Triangle");
                     }
                 }
 
